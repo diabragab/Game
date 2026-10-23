@@ -1,0 +1,11 @@
+{
+  "name": "Doodle Chess",
+  "short_name": "Doodle Chess",
+  "description": "Chess played as doodles on notebook paper.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fcfcf7",
+  "theme_color": "#fcfcf7",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}

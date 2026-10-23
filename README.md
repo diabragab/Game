@@ -16,3 +16,15 @@ Open `index.html` in a browser. No build step.
 - Stars unlock sticker packs: cats, robots, dinos
 - Synthesized sound effects and background music
 - Crayon boxes, notebook / graph / chalkboard paper, wide-gamut P3 "HDR" colors with glow
+- **Story mode**: a 10-level doodle map from Sloth's forest to Grumpy summit
+- **Daily challenge** (a new twist each day of the week) and **puzzle rush** (3 minutes, 3 misses)
+- **Openings coach** (5 openings) and **endgame drills** (queen, rook and ladder mates)
+- **Ask Claude** for a recap of your game, or ask a question about it
+- **24 badges**, a whale pet that levels up, seasonal decorations, a moon at night
+- **Online**: leaderboard, tournaments, and preset stickers to send during a game
+- Draw your own pieces, voices (pieces talk out loud), big-button mode for kids
+
+## Install as an app
+
+Host this folder on any HTTPS site (for example GitHub Pages). `manifest.webmanifest` and `sw.js` make it installable and playable offline. Online play, the leaderboard and Ask Claude only work on the published Claude page.
+
